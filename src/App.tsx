@@ -30,8 +30,8 @@ export function App(props: {
               ? <image src={reactLynxLogo} className='Logo--react' />
               : <image src={lynxLogo} className='Logo--lynx' />}
           </view>
-          <text className='Title'>React</text>
-          <text className='Subtitle'>on Lynx</text>
+          <text className='Title'>Sindiswa</text>
+          <text className='Subtitle'>Loves Senzo</text>
         </view>
         <view className='Content'>
           <image src={arrow} className='Arrow' />
